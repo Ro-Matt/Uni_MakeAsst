@@ -1,0 +1,7 @@
+cs104  cs103
+cs216  cs104 math241
+cs201  cs104
+cs381  cs216
+cs324  cs216 cs104 cs374
+cs351  cs201
+cs374  cs201
